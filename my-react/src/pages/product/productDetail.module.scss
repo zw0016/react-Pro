@@ -1,0 +1,17 @@
+.detail {
+  .list-item {
+    display: flex;
+    justify-content: flex-start;
+    .detail-left {
+      font-size: 20px;
+      font-weight: bold;
+      margin-right: 10px;
+    }
+    .imgStyle {
+      width: 150px;
+      height: 150px;
+      margin-right: 10px;
+      border: 1px black solid;
+    }
+  }
+}

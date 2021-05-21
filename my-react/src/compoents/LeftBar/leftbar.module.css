@@ -1,0 +1,20 @@
+.left-bar{
+    color: white;
+}
+.left-nav-bar{
+    height: 80px;
+    background-color: #002140;
+    display: flex;
+    align-items:  center;
+}
+.logo-img{
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+}
+.logo-text{
+    color: white;
+    font-size: 24px;
+    margin-bottom: 0px;
+
+}
